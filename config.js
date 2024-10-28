@@ -6,5 +6,5 @@ function convertToBool(text, fault = 'true') {
 }
 module.exports = {
 SESSION_ID: process.env.SESSION_ID || "𝙰𝚂𝙸𝚃𝙷𝙰-𝙼𝙳=TjQzwIqY#i1F2VpunswOe7FM2Y16l4tY2RvRbKpya_FMelk84UIQ",
-MONGODB: process.env.MONGODB || "",//enter mongo db url හදන විදිය පල්ලෙහාබටන් එකක් ඇති
+MONGODB: process.env.MONGODB || "mongodb+srv://manelmax031:q1n3rxjQypeQhCfV@cluster0.0islu.mongodb.net/",//enter mongo db url හදන විදිය පල්ලෙහාබටන් එකක් ඇති
 };
